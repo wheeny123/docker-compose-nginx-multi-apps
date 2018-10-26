@@ -1,3 +1,6 @@
-# nginx-serving-multi-containers
+# docker-compose serve multiple containers
 
-Use docker-compose to serve multiple containers.
+Flask web application with Gunicorn and NGINX.
+
+Support Load Balancing.
+
